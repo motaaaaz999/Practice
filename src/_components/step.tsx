@@ -7,6 +7,7 @@ const message: string[] = [
   "Invest you new income",
 ];
 
+//commit from remot repo
 //main branch
 export default function Step() {
   const [step, setStep] = useState(1);
