@@ -16,7 +16,7 @@ export default function Step() {
     <main className="min-h-screen flex justify-center items-center">
       {/* Container */}
       <section className="bg-gray-100 font-semibold rounded-2xl w-full px-6 py-6 max-w-3xl flex gap-y-8   flex-col">
-        {/* Numbers */}
+        {/* Numbers2 */}
         <div className="flex justify-between">
           <div
             className={cn(
