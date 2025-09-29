@@ -8,7 +8,7 @@ const message: string[] = [
 ];
 
 //commit from remot repo
-//main branch
+//test branch
 export default function Step() {
   const [step, setStep] = useState(1);
 
