@@ -6,7 +6,7 @@ const message: string[] = [
   "Apply for jobs",
   "Invest you new income",
 ];
-
+//99999
 //commit from remot repo
 //main branch
 export default function Step() {
